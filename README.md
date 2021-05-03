@@ -1,5 +1,4 @@
 # Bloom-Filter
-Implementation of the Bloom Filter Data Structure from scratch
 
 When we wish to store numerous keys, especially very large keys in a hash table and query, we run into a big problem of not enough RAM to hold them all.
 
